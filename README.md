@@ -1,9 +1,10 @@
-[![MasterHead](https://media.licdn.com/dms/image/C4E16AQHZXadyQox-aA/profile-displaybackgroundimage-shrink_200_800/0/1605626250247?e=2147483647&v=beta&t=j6v-Gpfs-n73UrBPt0b__d6CYgy6I-WYJsRE1xE7neU)
+![github-header-image](https://github.com/Abhisheksingh35/abhisheksingh35/assets/131572527/860d226e-8fc2-42e0-aca8-6eb6f2ec8fc1)
+
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Singh</h1>
 <h3 align="center">A passionate data science enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhisheksingh35" alt="abhisheksingh35" /></a> </p>
+
 
 - 🌱 I’m currently learning **Power BI, SQL & Python**
 
