@@ -1,6 +1,9 @@
-![github-header-image](https://github.com/Abhisheksingh35/abhisheksingh35/assets/131572527/860d226e-8fc2-42e0-aca8-6eb6f2ec8fc1)
+![f1342400-cbd9-11eb-84d5-36d6ce41d01a](https://github.com/Abhisheksingh35/abhisheksingh35/assets/131572527/daaadda2-ee5a-415e-a68e-de00fbcda36b)
 
-<h1 align="center">Hi 👋, I'm Abhishek Kumar Singh</h1>
+
+
+<h1 align="center">Hi 👋, I'm Abhishek Kumar Singh</h1>![Uploading github-header-image (1).png…]()
+
 <h3 align="center">A passionate data science enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
 
