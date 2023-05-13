@@ -1,4 +1,4 @@
-![github-header-image (1)](https://github.com/Abhisheksingh35/abhisheksingh35/assets/131572527/3b7c8258-0354-4ae3-ad02-9183111624da)
+![github-header-image (3)](https://github.com/Abhisheksingh35/abhisheksingh35/assets/131572527/f45d0563-b579-41aa-bdc3-36849cee2044)
 
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Singh</h1>!
 
@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **Power BI, SQL & Python**
+- 🌱 I’m currently learning **Power BI, SQL, MS Excel & Python**
 
 - 👨‍💻 All of my projects are available at [github.com/Abhisheksingh35](github.com/Abhisheksingh35)
 
