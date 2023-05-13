@@ -26,7 +26,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">  
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
+<a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank"><img style="margin: 10px" src="https://camo.githubusercontent.com/d9487dfc1c25b9f5cd9ca8b19fca991d505306239ce9c598d4b6fd165ed9265f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3531322f6d6963726f736f66742d657863656c2d323031392d2d76312e706e67" alt="MySQL" height="50" /></a>  
 </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisheksingh35&show_icons=true&locale=en&layout=compact" alt="abhisheksingh35" /></p>
