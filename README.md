@@ -1,6 +1,6 @@
 ![github-header-image (3)](https://github.com/Abhisheksingh35/abhisheksingh35/assets/131572527/f45d0563-b579-41aa-bdc3-36849cee2044)
 
-<h1 align="center">Hi 👋, I'm Abhishek Kumar Singh</h1>!
+<h1 align="center">Hi 👋, I'm Abhishek Kumar Singh!</h1>
 
 <h3 align="center">A passionate data science enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
