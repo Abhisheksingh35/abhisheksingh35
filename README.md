@@ -1,4 +1,5 @@
-![github-header-image (3)](https://github.com/Abhisheksingh35/abhisheksingh35/assets/131572527/f45d0563-b579-41aa-bdc3-36849cee2044)
+![github-header-image (1)](https://github.com/Abhisheksingh35/abhisheksingh35/assets/131572527/0265ad32-4c62-4b37-8838-66f6515d09bb)
+
 
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Singh!</h1>
 
